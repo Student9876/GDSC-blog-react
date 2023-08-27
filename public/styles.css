@@ -1,6 +1,20 @@
+/* Heading Div */
+.headingCarousel {
+    height: 100px;
+    width: 100px;
+    margin: 2rem;
+    color: #000;
+}
+.headingCarousel h2 {
+    font-family: 'Orbitron', sans-serif;
+}
+
 .headingDiv {
     margin: 2rem;
 }
+
+
+
 
 
 /* Field Div  */
